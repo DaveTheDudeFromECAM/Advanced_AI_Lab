@@ -4,9 +4,6 @@
 # ignore checkpoint files
 .ipynb_checkpoints/
 
-# ignore advanced_ai_lab.ipynb
-advanced_ai_lab.ipynb
-
 # ignores all files in the data/ directory
 input/
 
