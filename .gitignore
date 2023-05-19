@@ -1,23 +1,23 @@
+# ignore all .DS_Store files
+.DS_Store
+
+# ignore checkpoint files
+.ipynb_checkpoints/
+
+# ignore advanced_ai_lab.ipynb
+advanced_ai_lab.ipynb
+
 # ignores all files in the data/ directory
 input/
+
+# ignore model files
+model/
+
+# ignore all old directoriy
+old/
 
 # ignore all files in matt/ directory
 matt/
 
 # ignore matt.zip
 matt.zip
-
-# ignore all .DS_Store files
-.DS_Store
-
-# ignore all old directoriy
-old/
-
-# ignore advanced_ai_lab.ipynb
-advanced_ai_lab.ipynb
-
-# ignore model files
-model/
-
-# ignore checkpoint files
-.ipynb_checkpoints/
