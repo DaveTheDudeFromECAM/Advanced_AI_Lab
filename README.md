@@ -1,2 +1,2 @@
 # Advanced_AI_Lab
- TPU implementation of a flower classifier
+ Images classification competition on Kaggle using Inaturalist Dataset on 
