@@ -18,3 +18,6 @@ advanced_ai_lab.ipynb
 
 # ignore model files
 model/
+
+# ignore checkpoint files
+.ipynb_checkpoints/
